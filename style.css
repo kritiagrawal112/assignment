@@ -18,9 +18,9 @@ body
 {
     
    background-color: #000;
-   color: #fff;
+   
    min-height: 60px;
-  // border-color: #080808;
+  
   border: 1px solid transparent;
   
   width: 100%;
@@ -50,6 +50,67 @@ nav ul li
     float: right;
    font-size: 16px;
     padding:15px 15px;
+    color: #ededed;
+}
+.content
+{
+    background-image: url("./img/clock-1461689_1280.jpg");
+    background-size: cover;
+    min-height: 600px;
+    text-align: center;
+    color: #f8f8f8;
+}
+.inner-banner
+{
+    padding: 12%;
+    width: 80%;
+    margin: auto;
+}
+.inner-banner-image
+{
+    
+    text-align: center;
+   
+    position: relative;
+   padding-top: 6%;
+    padding-bottom:  6%;
+    left: 10%;
+overflow:hidden;
+background-color: rgba(0, 0, 0, 0.7); 
+max-width: 660px;
+}
+#link
+{
+    background-color:#c9302c;
+   border-color: #ac2925;
+   box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+   border-radius: 6px;
+    text-decoration: none;
+    color: white;
+   padding: 10px 16px;
+    font-size: 18px;
+    
+}
+.container
+{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+.float
+{
+    width:30%;
+    height: 450px;
+display: block;
+padding: 4px; 
+margin-bottom: 20px; 
+line-height: 1.42857143; 
+background-color: #fff; 
+border: 1px solid #ddd; 
+border-radius: 4px; 
+float:left; 
+margin-left:1%;
+    
 }
 
    
