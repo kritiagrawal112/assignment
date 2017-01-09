@@ -116,7 +116,7 @@ margin-left:1%;
 .thumbnail
 {
     text-decoration: none;
-    display: block; max-width: 100%; height: auto;
+    display: block; width: 100%; height: 300px;
 }
 .caption
 {
